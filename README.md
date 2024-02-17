@@ -1,6 +1,8 @@
 # QOL Fork
 For me at least.
 
+Ideologically sterile.
+
 # LambDynamicLights
 
 <!-- modrinth_exclude.start -->
@@ -12,7 +14,7 @@ For me at least.
 [![CurseForge](http://cf.way2muchnoise.eu/title/393442.svg)](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
 <!-- modrinth_exclude.end -->
 
-A dynamic lights mod for Quilt and Fabric.
+A dynamic lights mod for Fabric and Quilt.
 
 ## 📖 What's this mod?
 
