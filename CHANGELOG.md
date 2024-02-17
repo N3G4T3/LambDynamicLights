@@ -175,7 +175,10 @@
 - Updated Ukrainian translations ([#195](https://github.com/LambdAurora/LambDynamicLights/pull/195)).
 - Updated to Minecraft 1.20.4 ([#202](https://github.com/LambdAurora/LambDynamicLights/pull/202)).
 
+### 2.3.4.1
+
+- Removed [pridelib] and all associated material.
+
 [SpruceUI]: https://github.com/LambdAurora/SpruceUI "SpruceUI page"
-[pridelib]: https://github.com/Queerbric/pridelib "Pridelib page"
 [Sodium]: https://modrinth.com/mod/sodium "Sodium Modrinth page"
 [Canvas Renderer]: https://www.curseforge.com/minecraft/mc-mods/canvas-renderer "Canvas Renderer CurseForge page"
