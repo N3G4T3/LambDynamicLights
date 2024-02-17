@@ -123,7 +123,7 @@
 
 - Updated to Minecraft 1.19.
 - Updated [SpruceUI].
-- Updated [pridelib].
+- Updated pridelib.
 
 ### 2.1.2
 
@@ -177,7 +177,7 @@
 
 ### 2.3.4.1
 
-- Removed [pridelib] and all associated material.
+- Removed pridelib and all associated material.
 
 [SpruceUI]: https://github.com/LambdAurora/SpruceUI "SpruceUI page"
 [Sodium]: https://modrinth.com/mod/sodium "Sodium Modrinth page"
